@@ -1,0 +1,11 @@
+basic.showString("0000")
+basic.pause(100)
+basic.showString("No.00")
+basic.pause(100)
+basic.showString("Mr.yutthana wongthipakorn")
+basic.forever(function () {
+    music.playMelody("E D C D E E E - ", 120)
+    music.playMelody("D D D E F F - - ", 120)
+    music.playMelody("E D C D E E E - ", 120)
+    music.playMelody("D D E D C - - - ", 120)
+})
