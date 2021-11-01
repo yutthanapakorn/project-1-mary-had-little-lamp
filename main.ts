@@ -1,4 +1,4 @@
-basic.showString("0000")
+basic.showString("SID.0000")
 basic.pause(100)
 basic.showString("No.00")
 basic.pause(100)
